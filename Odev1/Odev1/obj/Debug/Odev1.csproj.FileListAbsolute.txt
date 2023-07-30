@@ -1,0 +1,14 @@
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\bin\Debug\Odev1.exe.config
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\bin\Debug\Odev1.exe
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\bin\Debug\Odev1.pdb
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.csproj.AssemblyReference.cache
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.csproj.SuggestedBindingRedirects.cache
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.Form1.resources
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.Giris.resources
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.Properties.Resources.resources
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.csproj.GenerateResource.cache
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.csproj.CoreCompileInputs.cache
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.exe
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.pdb
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.Duzenleme.resources
+D:\ismekKurs\cSharpOgrenmek\Odev1\Odev1\obj\Debug\Odev1.Silme.resources
